@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Api Vision</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="image_details_header">Detalles:</string>
+    <string name="image_preview_header">Avance:</string>
+    <string name="loading_message">Subiendo imagen. Por favor espera.</string>
+
+    <string name="dialog_select_prompt">Buscar una foto</string>
+    <string name="dialog_select_camera">Cámara</string>
+    <string name="dialog_select_gallery">Galeria</string>
+
+    <string name="image_picker_error">Algo está mal con esa imagen. Elige una diferente por favor.</string>
+</resources>
